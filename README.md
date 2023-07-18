@@ -8,7 +8,7 @@
 
 
 ### My projects:
- * ![Moroseando](https://github.com/AlvaroOrtizP/Moroseando): Angular
+ * [Moroseando](https://github.com/AlvaroOrtizP/Moroseando): Angular, HTML y Bootstrap 5
 
 
 -------
