@@ -2,7 +2,6 @@
 
 ## Hi I'm Alvaro :fox_face:
 
-* :computer: I’m currently working on [BBVA]
 * :email: How to reach me: alvaro.ortiz.pedroso@gmail.com
 * :see_no_evil: I love: :swimmer: :tropical_fish:
 
